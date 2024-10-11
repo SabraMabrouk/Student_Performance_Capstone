@@ -15,7 +15,7 @@ This repository includes Jupyter Notebook files demonstrating the different step
   
 - [EDA.ipynb](https://github.com/SabraMabrouk/Student_Performance_Capstone/blob/475cfebba773112191e90a77e470a98150b7514e/EDA.ipynb), the goal in this step is to explore the data and understand the relationships between the different features.
   
-- [pre_processing.ipynb](https://github.com/SabraMabrouk/Student_Performance_Capstone/blob/475cfebba773112191e90a77e470a98150b7514e/pre_processing.ipynb), the main work in this notebook involves scaling the data and splitting it into test and training data sets.
+- [pre_processing.ipynb](https://github.com/SabraMabrouk/Student_Performance_Capstone/blob/475cfebba773112191e90a77e470a98150b7514e/pre_processing.ipynb), the main work in this notebook involves scaling the data and splitting it into test and training data sets
   
 - [Modeling.ipynb](https://github.com/SabraMabrouk/Student_Performance_Capstone/blob/475cfebba773112191e90a77e470a98150b7514e/Modeling.ipynb), six models are trained including linear and tree based models. Random Forest is the selected model with a test mean absolute error of 2.14 and a test root mean squared error of 2.83.
   
